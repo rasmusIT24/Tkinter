@@ -1,0 +1,10 @@
+insert into trainers (full_name, job, contact) values ('Romola Golly', '', 'rgolly0@flickr.com');
+insert into trainers (full_name, job, contact) values ('Ephrayim McCrisken', 'pilates', 'emccrisken1@who.int');
+insert into trainers (full_name, job, contact) values ('Dominik Corkell', 'pilates', 'dcorkell2@comcast.net');
+insert into trainers (full_name, job, contact) values ('Annis Nowak', 'pilates', 'anowak3@hp.com');
+insert into trainers (full_name, job, contact) values ('Tyrus Crosfield', '', 'tcrosfield4@parallels.com');
+insert into trainers (full_name, job, contact) values ('Buck Padrick', 'joga', 'bpadrick5@uiuc.edu');
+insert into trainers (full_name, job, contact) values ('Reinhold O''Regan', 'joga', 'roregan6@zdnet.com');
+insert into trainers (full_name, job, contact) values ('Kris Byatt', 'Korvpall', 'kbyatt7@google.co.jp');
+insert into trainers (full_name, job, contact) values ('Hannis Tenpenny', 'Korvpall', 'htenpenny8@google.it');
+insert into trainers (full_name, job, contact) values ('Arliene Wiltshier', 'joga', 'awiltshier9@apache.org');
